@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Gistek-s](https://gistek-s.com/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel**, **Python** and **Android (Java)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elazaroo](https://github.com/elazaroo)
 
-- 💬 Ask me about **PHP, Laravel, MySQL**
+- 💬 Ask me about **PHP, Laravel, MySQL, SQLServer**
 
 - 📫 How to reach me **enekolazaroalba@gmail.com**
 
