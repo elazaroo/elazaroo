@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eneko Lazaro</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate **Full Stack** developer from Spain</h3>
 
 - 🔭 I’m currently working on [Gistek-s](https://gistek-s.com/)
 
