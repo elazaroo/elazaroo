@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eneko Lazaro</h1>
-<h3 align="center">A passionate Full Stack developer from Spain</h3>
+<h3 align="center">A passionate Full Stack developer from Bilbao (Spain)</h3>
 
 - 🔭 I’m currently working on [Gistek-s](https://gistek-s.com/)
 
-- 🌱 I’m currently learning **Laravel**, **Python** and **Android (Java)**
+- 🌱 I’m currently learning **.NET**, **Laravel**, **Python** and **Android (Java)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elazaroo](https://github.com/elazaroo)
 
